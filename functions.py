@@ -1,5 +1,6 @@
 def add(a, b):
-    return a + b
+    return a + b  # The add function is already correct
 
 def subtract(a, b):
-    return a + b  # do not change this line until prompted to do so.
+    return a - b  # Fix the bug: the subtract function should return a - b
+
